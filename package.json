@@ -1,11 +1,11 @@
 {
-  "name": "pets-team-project",
+  "name": "paw-hut",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/pets-team-project/",
+    "build": "vite build --base=/paw-hut/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -15,7 +15,7 @@
     "swagger": "^0.7.5",
     "vite": "^5.4.6"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Kostiantyn Polishchuk <kostya.polishchuk@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "accordion-js": "^3.4.1",
